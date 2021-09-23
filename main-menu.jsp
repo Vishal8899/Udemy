@@ -3,7 +3,7 @@
 
 <body>
 
-<h5>Spring MVC Demo - Home Page</h5>
+<h8>Spring MVC Demo - Home Page</h8>
 
 </body>
 </html>
